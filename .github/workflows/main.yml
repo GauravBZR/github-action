@@ -1,7 +1,7 @@
 name: github-action
 env:
-  apiKey: ""
-  apiSecret: ""
+  apiKey: "1fa2bd892fe3da05236ef806"
+  apiSecret: "cf995a04c7bb53b15187d24ce15da14dfa23d6d2641ce6c1c32fc7b25c9b5791b56ba218"
   continuePipeline: "false"
   showTailLog: "false"
   testID: "11132497"  
